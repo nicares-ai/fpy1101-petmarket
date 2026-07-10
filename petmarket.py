@@ -294,4 +294,8 @@ def main():
 if __name__ == "__main__":
     main()
 
-
+# -----------------------------------------
+# Evaluación Final Transversal FPY1101
+# Sistema de gestión PetMarket
+# Autor: Nicolás Ignacio Cares Toro
+# -----------------------------------------
