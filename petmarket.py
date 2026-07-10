@@ -299,3 +299,4 @@ if __name__ == "__main__":
 # Sistema de gestión PetMarket
 # Autor: Nicolás Ignacio Cares Toro
 # -----------------------------------------
+
